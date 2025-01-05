@@ -4,4 +4,4 @@ This repository includes my code and notebooks for various data science projects
 
 You can read more about these projects on my The Data Explorer’s Journey Medium page.
 
-Feel free to connect with me on Twitter: @rahmani_neda.
+[Feel free to connect with me on Twitter](https://twitter.com/rahmani_neda).
